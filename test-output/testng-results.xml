@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-05T22:32:50 ICT" name="Test" finished-at="2021-12-05T22:33:37 ICT" duration-ms="47612">
+    <groups>
+    </groups>
+    <test started-at="2021-12-05T22:32:50 ICT" name="Run Pages" finished-at="2021-12-05T22:33:37 ICT" duration-ms="47612">
+      <class name="testcases.RunTestPages">
+        <test-method is-config="true" signature="RunTestPage()[pri:0, instance:testcases.RunTestPages@2fd6b6c7]" started-at="2021-12-05T22:32:50 ICT" name="RunTestPage" finished-at="2021-12-05T22:33:23 ICT" duration-ms="33301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunTestPage -->
+        <test-method signature="SearchBox()[pri:0, instance:testcases.RunTestPages@2fd6b6c7]" started-at="2021-12-05T22:33:23 ICT" name="SearchBox" finished-at="2021-12-05T22:33:37 ICT" duration-ms="14235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBox -->
+      </class> <!-- testcases.RunTestPages -->
+    </test> <!-- Run Pages -->
+  </suite> <!-- Test -->
+</testng-results>
